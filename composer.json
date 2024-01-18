@@ -2,7 +2,7 @@
     "name": "laravelcake/lead",
     "description": "Store the lead in the cake",
     "type": "library",
-    "license": "",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "LaravelCake\\Lead\\": "src/"
