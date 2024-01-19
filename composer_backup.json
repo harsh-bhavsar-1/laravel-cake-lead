@@ -1,0 +1,18 @@
+{
+    "name": "laravelcake/lead",
+    "description": "Store the lead in the cake",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LaravelCake\\Lead\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gopal Kodganti",
+            "email": "gopal.kodganti@bytestechnolab.com"
+        }
+    ],
+    "require": {}
+}
